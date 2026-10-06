@@ -1,2 +1,2 @@
-# OOC_Lab_63
-Learning C++ Code
+# Lab-cpp-64
+we have to perform give problem statement under ooc.
